@@ -1,0 +1,1 @@
+include 'android', 'core', ':appodeal-1.15.5', ':cheetah-mobile-3.4.7', ':applovin-6.3.0', ':chartboost-6.5.1', ':flurry-analytics-6.5.0', ':my-target-4.5.10', ':unity-ads-2.0.4', ':yandex-metrica-2.41'
