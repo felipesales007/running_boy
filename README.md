@@ -17,4 +17,5 @@ Jogo desenvolvido e publicado na Google Play no Android Studio utilizando o fram
 <img src="https://logodownload.org/wp-content/uploads/2015/05/android-logo-4.png" width="100" height="100" />
 
 ## Download
+
 Jogo disponível na loja do [Google Play](https://play.google.com/store/apps/details?id=com.felipesales007&hl=pt-BR).
